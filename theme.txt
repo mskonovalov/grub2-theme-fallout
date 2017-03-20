@@ -1,4 +1,4 @@
-# GRUB2 gfxmenu Linux Vimix theme
+# GRUB2 gfxmenu Linux Fallout theme
 # Designed for any resolution
 
 # Global Property
@@ -20,7 +20,7 @@ terminal-border: "0"
   width = 70%
   height = 60%
   item_font = "Fixedsys Regular 32"
-  item_color = "#69ba7f"
+  item_color = "#67d97a"
   selected_item_color = "#ffffff"
   item_height = 40
   item_spacing = 18
@@ -35,6 +35,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#69ba7f"
+  color = "#67d97a"
   font = "Fixedsys Regular 32"
 }
