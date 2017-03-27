@@ -1,9 +1,9 @@
 # grub2-theme-fallout
 
-
-[![Version][version img]][version]
 [![Download][download img]][download]
-[![][license img]][license]
+[![Version][version img]][version]
+![Downloads count][downloadcnt img]
+[![License][license img]][license]
 
 Grub2 theme aka Fallout terminal interface
 
@@ -34,5 +34,6 @@ Or you can change the color of icons with any graphic editor you like.
 [version img]:https://img.shields.io/badge/version-1.0-blue.svg
 [download]:../../releases/download/1.0/grub2-fallout-theme.tar.gz
 [download img]:https://img.shields.io/badge/download-.tar.gz-brightgreen.svg
+[downloadcnt img]:https://img.shields.io/github/downloads/mskonovalov/grub2-theme-fallout/total.svg
 [license]:LICENSE
 [license img]:https://img.shields.io/badge/License-MIT-blue.svg
