@@ -24,6 +24,7 @@ terminal-border: "0"
   selected_item_color = "#ffffff"
   item_height = 48
   item_spacing = 8
+  item_icon_space = 12
   item_pixmap_style = "item_*.png"
   selected_item_pixmap_style = "selected_item_*.png"
 }
